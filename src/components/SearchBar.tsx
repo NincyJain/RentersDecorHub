@@ -95,15 +95,6 @@ export default function SearchBar({
                   rel="noopener noreferrer nofollow"
                   className="flex items-center gap-3.5 rounded-xl p-2 hover:bg-neutral-50 transition-colors group"
                 >
-                  {/* Thumbnail */}
-                  <div className="relative h-12 w-12 flex-shrink-0 overflow-hidden rounded-lg bg-neutral-50 border border-neutral-100">
-                    <img
-                      src={product.image}
-                      alt={product.title}
-                      className="h-full w-full object-cover"
-                    />
-                  </div>
-
                   {/* Details */}
                   <div className="flex-1 min-w-0">
                     <h4 className="text-sm font-medium text-neutral-900 truncate group-hover:text-neutral-700">

@@ -44,12 +44,14 @@ export default function CategoryPage() {
         <div className="mx-auto max-w-7xl px-4 py-12 sm:px-6 lg:px-8">
           <div className="h-4 w-32 bg-neutral-200 rounded mx-auto mb-4 animate-pulse" />
           <div className="h-6 w-64 bg-neutral-200 rounded mx-auto mb-8 animate-pulse" />
-          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-6 md:gap-8">
             {[1, 2, 3, 4].map((i) => (
-              <div key={i} className="flex flex-col gap-4">
-                <div className="aspect-[4/3] rounded-2xl bg-neutral-100 animate-pulse" />
-                <div className="h-4 w-3/4 bg-neutral-100 rounded animate-pulse" />
-                <div className="h-3 w-1/2 bg-neutral-100 rounded animate-pulse" />
+              <div key={i} className="flex flex-col gap-4 p-5 md:p-6 rounded-2xl border border-neutral-100 shadow-sm">
+                <div className="h-4 w-1/4 bg-neutral-100 rounded animate-pulse mb-2" />
+                <div className="h-6 w-3/4 bg-neutral-100 rounded animate-pulse" />
+                <div className="h-3 w-full bg-neutral-100 rounded animate-pulse" />
+                <div className="h-3 w-5/6 bg-neutral-100 rounded animate-pulse" />
+                <div className="h-10 w-full bg-neutral-100 rounded-lg animate-pulse mt-4" />
               </div>
             ))}
           </div>

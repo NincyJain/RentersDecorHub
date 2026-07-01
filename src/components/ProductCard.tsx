@@ -9,31 +9,21 @@ interface ProductCardProps {
 }
 
 export default function ProductCard({ product }: ProductCardProps) {
-  const { title, description, image, affiliateLink, badge } = product;
+  const { title, description, affiliateLink, badge } = product;
 
   return (
     <div className="group flex flex-col overflow-hidden rounded-2xl bg-white border border-neutral-100 shadow-sm transition-all duration-300 hover:-translate-y-1 hover:shadow-md">
-      {/* Product Image Container */}
-      <div className="relative aspect-[4/3] w-full overflow-hidden bg-neutral-50">
-        <img
-          src={image}
-          alt={title}
-          loading="lazy"
-          className="h-full w-full object-cover transition-transform duration-500 group-hover:scale-105"
-        />
+      {/* Product Details */}
+      <div className="flex flex-1 flex-col p-5 md:p-6">
         {badge && (
-          <div className="absolute left-4 top-4 z-10">
+          <div className="mb-3">
             <Badge>{badge}</Badge>
           </div>
         )}
-      </div>
-
-      {/* Product Details */}
-      <div className="flex flex-1 flex-col p-5 md:p-6">
-        <h3 className="text-lg font-semibold text-neutral-900 group-hover:text-neutral-700 transition-colors line-clamp-1">
+        <h3 className="text-xl font-semibold text-neutral-900 group-hover:text-neutral-700 transition-colors">
           {title}
         </h3>
-        <p className="mt-2 text-sm leading-relaxed text-neutral-500 line-clamp-3 flex-grow">
+        <p className="mt-3 text-sm leading-relaxed text-neutral-500 flex-grow">
           {description}
         </p>
 

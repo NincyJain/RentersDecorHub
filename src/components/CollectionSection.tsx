@@ -32,11 +32,7 @@ export default function CollectionSection({
       </div>
 
       {/* Grid */}
-      <div
-        className={`grid grid-cols-1 gap-y-10 gap-x-6 sm:grid-cols-2 ${
-          cols === 3 ? "lg:grid-cols-3" : "lg:grid-cols-3 xl:grid-cols-4"
-        } xl:gap-x-8`}
-      >
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-6 md:gap-8">
         {products.map((product) => (
           <ProductCard key={product.id} product={product} />
         ))}
