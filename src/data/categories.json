@@ -1,0 +1,38 @@
+[
+  {
+    "slug": "bedroom",
+    "name": "Bedroom",
+    "description": "Create a cozy, serene oasis. Discover space-saving bedside tables, rental-safe wall lighting, and premium bedding solutions that transform your sleeping quarters without risking your security deposit.",
+    "coverImage": "/images/bedroom/cover.png"
+  },
+  {
+    "slug": "living-room",
+    "name": "Living Room",
+    "description": "Make a stunning first impression. Explore modular sofas, stylish peel-and-stick accent walls, multipurpose coffee tables, and ambient lighting solutions tailored for modern rental apartments.",
+    "coverImage": "/images/living-room/cover.png"
+  },
+  {
+    "slug": "study-room",
+    "name": "Study Room",
+    "description": "Boost your focus and productivity. Find minimalist desk organizers, ergonomic seating, space-conscious shelving units, and smart desktop accessories for the ultimate home office setup.",
+    "coverImage": "/images/study/cover.png"
+  },
+  {
+    "slug": "kitchen",
+    "name": "Kitchen",
+    "description": "Maximize every square inch. Streamline your culinary space with elegant magnetic spice racks, stylish glass storage containers, renter-friendly counter organizers, and chic bar stools.",
+    "coverImage": "/images/kitchen/cover.png"
+  },
+  {
+    "slug": "bathroom",
+    "name": "Bathroom",
+    "description": "Turn your bathroom into a luxury home spa. Discover rust-resistant over-the-toilet shelving, premium waffle bath sheets, cohesive accessory sets, and stylish non-drill shower caddies.",
+    "coverImage": "/images/bathroom/cover.png"
+  },
+  {
+    "slug": "balcony",
+    "name": "Balcony",
+    "description": "Transform your outdoor niche into a peaceful retreat. Shop folding bistro sets, weatherproof outdoor cushions, warm solar string lights, and space-efficient railing planters.",
+    "coverImage": "/images/balcony/cover.png"
+  }
+]

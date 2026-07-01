@@ -1,0 +1,38 @@
+[
+  {
+    "id": 201,
+    "title": "Bohemian Rattan Pouf Ottoman",
+    "description": "Add flexible, lightweight seating to your living room. This hand-braided straw pouf can be used as a footrest, extra floor seat, or a small tray table. High-quality natural fiber.",
+    "image": "/images/living-room/product1.png",
+    "affiliateLink": "https://amzn.to/example-living-1",
+    "badge": "Best Seller",
+    "category": "Living Room"
+  },
+  {
+    "id": 202,
+    "title": "Peel-and-Stick Herringbone Wallpaper",
+    "description": "Get the high-end look without losing your security deposit. This self-adhesive, renter-friendly wallpaper removes cleanly without leaving sticky residue or damaging walls.",
+    "image": "/images/living-room/product2.png",
+    "affiliateLink": "https://amzn.to/example-living-2",
+    "badge": "Trending",
+    "category": "Living Room"
+  },
+  {
+    "id": 203,
+    "title": "Set of 3 Ceramic Minimalist Vases",
+    "description": "Display dried grass or fresh blooms in these matte finish ceramic vases. A stylish, contemporary accent for any bookshelf, mantle piece, or side table.",
+    "image": "/images/living-room/product3.png",
+    "affiliateLink": "https://amzn.to/example-living-3",
+    "badge": "Budget Pick",
+    "category": "Living Room"
+  },
+  {
+    "id": 204,
+    "title": "Warm Amber Glass Candle Warmer Lamp",
+    "description": "Melt your favorite candles safely without an open flame. This elegant lamp uses a halogen light bulb to gently warm wax from the top down, filling the room with scent.",
+    "image": "/images/living-room/product4.png",
+    "affiliateLink": "https://amzn.to/example-living-4",
+    "badge": "Editor's Pick",
+    "category": "Living Room"
+  }
+]

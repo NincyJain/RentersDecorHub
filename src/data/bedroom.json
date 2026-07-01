@@ -1,0 +1,38 @@
+[
+  {
+    "id": 101,
+    "title": "Minimalist Floating Bedside Shelf",
+    "description": "This sturdy bedside shelf clamps directly onto your bed frame, providing space for a phone, water glass, and book without needing a bulky floor nightstand. Perfect for tight rental bedrooms.",
+    "image": "/images/bedroom/product1.png",
+    "affiliateLink": "https://amzn.to/example-bedroom-1",
+    "badge": "Best Seller",
+    "category": "Bedroom"
+  },
+  {
+    "id": 102,
+    "title": "Warm Glow LED Pleated Table Lamp",
+    "description": "Add a touch of vintage charm to your bedroom. This usb-powered pleated fabric lamp throws a warm, ambient light that is perfect for late night reading and cozy vibes.",
+    "image": "/images/bedroom/product2.png",
+    "affiliateLink": "https://amzn.to/example-bedroom-2",
+    "badge": "Trending",
+    "category": "Bedroom"
+  },
+  {
+    "id": 103,
+    "title": "Under-Bed Fabric Storage Bags",
+    "description": "Maximize your closet space. These breathable fabric storage containers fit snugly under the bed, keeping off-season bedding and clothing dust-free, organized, and easily visible.",
+    "image": "/images/bedroom/product3.png",
+    "affiliateLink": "https://amzn.to/example-bedroom-3",
+    "badge": "Budget Pick",
+    "category": "Bedroom"
+  },
+  {
+    "id": 104,
+    "title": "Tufted Velvet Lumbar Throw Pillow",
+    "description": "Elevate your bedding styling instantly with this long velvet bolster throw pillow. Features a rich, tactile finish and a hidden zip for easy washing. Instant boho chic look.",
+    "image": "/images/bedroom/product4.png",
+    "affiliateLink": "https://amzn.to/example-bedroom-4",
+    "badge": "Editor's Pick",
+    "category": "Bedroom"
+  }
+]

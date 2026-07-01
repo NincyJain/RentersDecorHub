@@ -1,0 +1,38 @@
+[
+  {
+    "id": 601,
+    "title": "Folding Wooden Bistro Table & Chairs",
+    "description": "Enjoy your morning coffee outside. This compact folding three-piece wooden bistro set fits perfectly in small outdoor spaces and folds flat for easy winter storage.",
+    "image": "/images/balcony/product1.png",
+    "affiliateLink": "https://amzn.to/example-balcony-1",
+    "badge": "Best Seller",
+    "category": "Balcony"
+  },
+  {
+    "id": 602,
+    "title": "Warm White LED Solar String Lights",
+    "description": "Add magical ambient lighting to your balcony. These commercial-grade, weatherproof solar-powered fairy lights automatically turn on at dusk. No plugs needed.",
+    "image": "/images/balcony/product2.png",
+    "affiliateLink": "https://amzn.to/example-balcony-2",
+    "badge": "Trending",
+    "category": "Balcony"
+  },
+  {
+    "id": 603,
+    "title": "Hanging Metal Balcony Railing Planters",
+    "description": "Maximize vertical balcony space. These powder-coated steel flower pots feature adjustable hanging arms that hook securely onto typical balcony railing spindles.",
+    "image": "/images/balcony/product3.png",
+    "affiliateLink": "https://amzn.to/example-balcony-3",
+    "badge": "Budget Pick",
+    "category": "Balcony"
+  },
+  {
+    "id": 604,
+    "title": "Weatherproof Indoor/Outdoor Flatweave Rug",
+    "description": "Warm up hard concrete balcony floors with this water-resistant, low-maintenance flatweave rug in a neutral geometric pattern. Easily sprayed clean with a hose.",
+    "image": "/images/balcony/product4.png",
+    "affiliateLink": "https://amzn.to/example-balcony-4",
+    "badge": "Editor's Pick",
+    "category": "Balcony"
+  }
+]

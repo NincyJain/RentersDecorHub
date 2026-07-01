@@ -1,0 +1,38 @@
+[
+  {
+    "id": 301,
+    "title": "Desktop Riser with Bamboo Drawers",
+    "description": "Raise your computer screen to eye level while adding desktop storage. Featuring beautiful natural bamboo drawer fronts and slot organizers for pens and office supplies.",
+    "image": "/images/study/product1.png",
+    "affiliateLink": "https://amzn.to/example-study-1",
+    "badge": "Best Seller",
+    "category": "Study Room"
+  },
+  {
+    "id": 302,
+    "title": "Ergonomic Mesh Home Office Chair",
+    "description": "A compact, highly breathable desk chair with adjustable lumbar support and flip-up armrests that slide easily under small home office desks. Perfect for studying.",
+    "image": "/images/study/product2.png",
+    "affiliateLink": "https://amzn.to/example-study-2",
+    "badge": "Trending",
+    "category": "Study Room"
+  },
+  {
+    "id": 303,
+    "title": "Felt Desk Mat and Laptop Pad",
+    "description": "Protect your desk and damp desk noise with this premium wool felt desk pad. Provides a soft, warm surface for your hands and computer mouse. Highly aesthetic.",
+    "image": "/images/study/product3.png",
+    "affiliateLink": "https://amzn.to/example-study-3",
+    "badge": "Budget Pick",
+    "category": "Study Room"
+  },
+  {
+    "id": 304,
+    "title": "Adjustable Metal Swing-Arm Desk Lamp",
+    "description": "Get architectural lighting style in your study room. This clamp-on desk lamp lets you focus bright LED light exactly where you need it. High durability.",
+    "image": "/images/study/product4.png",
+    "affiliateLink": "https://amzn.to/example-study-4",
+    "badge": "Editor's Pick",
+    "category": "Study Room"
+  }
+]

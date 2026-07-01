@@ -1,0 +1,38 @@
+[
+  {
+    "id": 401,
+    "title": "Bamboo Bread Box with Cutting Board Lid",
+    "description": "Keep your bread fresh in style. This eco-friendly bamboo bread container features a slide-out drawer and a dual-purpose cutting board lid. Perfect for decluttering countertops.",
+    "image": "/images/kitchen/product1.png",
+    "affiliateLink": "https://amzn.to/example-kitchen-1",
+    "badge": "Best Seller",
+    "category": "Kitchen"
+  },
+  {
+    "id": 402,
+    "title": "Amber Glass Spice Jars with Labels",
+    "description": "Organize your spices with these high-quality amber glass jars. Comes with a complete set of minimalist, pre-printed water-resistant spice labels for a uniform pantry look.",
+    "image": "/images/kitchen/product2.png",
+    "affiliateLink": "https://amzn.to/example-kitchen-2",
+    "badge": "Trending",
+    "category": "Kitchen"
+  },
+  {
+    "id": 403,
+    "title": "Magnetic Refrigerator Spice Rack Shelf",
+    "description": "No drilling required! These super strong magnetic shelves stick directly to the side of your fridge, creating instant storage space for spices, oils, and kitchen towels.",
+    "image": "/images/kitchen/product3.png",
+    "affiliateLink": "https://amzn.to/example-kitchen-3",
+    "badge": "Budget Pick",
+    "category": "Kitchen"
+  },
+  {
+    "id": 404,
+    "title": "Under-Cabinet Wine Glass Holder Rack",
+    "description": "Maximize cabinet storage by hanging wine glasses horizontally under your shelving units. Easy to mount with non-destructive adhesive strips or screws.",
+    "image": "/images/kitchen/product4.png",
+    "affiliateLink": "https://amzn.to/example-kitchen-4",
+    "badge": "Editor's Pick",
+    "category": "Kitchen"
+  }
+]

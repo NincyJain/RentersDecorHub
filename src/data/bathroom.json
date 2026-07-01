@@ -1,0 +1,38 @@
+[
+  {
+    "id": 501,
+    "title": "Over-The-Toilet Metal Storage Organizer",
+    "description": "Add three spacious shelves above your toilet. This freestanding organizer fits over standard toilets and doesn't require wall-mounting hardware. High storage capacity.",
+    "image": "/images/bathroom/product1.png",
+    "affiliateLink": "https://amzn.to/example-bathroom-1",
+    "badge": "Best Seller",
+    "category": "Bathroom"
+  },
+  {
+    "id": 502,
+    "title": "Luxury Waffle Weave Cotton Bath Towels",
+    "description": "Transform your bathing experience with these fast-drying waffle weave towels made from 100% long-staple Turkish cotton. Exceptionally soft and highly absorbent.",
+    "image": "/images/bathroom/product2.png",
+    "affiliateLink": "https://amzn.to/example-bathroom-2",
+    "badge": "Trending",
+    "category": "Bathroom"
+  },
+  {
+    "id": 503,
+    "title": "Adhesive Corner Shower Caddy Shelves",
+    "description": "Organize shampoos and soaps. These rustproof stainless steel corner shelves mount securely with powerful adhesive brackets that peel off clean when moving out.",
+    "image": "/images/bathroom/product3.png",
+    "affiliateLink": "https://amzn.to/example-bathroom-3",
+    "badge": "Budget Pick",
+    "category": "Bathroom"
+  },
+  {
+    "id": 504,
+    "title": "Modern Ceramic Bathroom Accessory Set",
+    "description": "Unify your countertop styling with this 4-piece set including a soap dispenser, toothbrush holder, tumbler, and a matching soap dish in matching cream white.",
+    "image": "/images/bathroom/product4.png",
+    "affiliateLink": "https://amzn.to/example-bathroom-4",
+    "badge": "Editor's Pick",
+    "category": "Bathroom"
+  }
+]
