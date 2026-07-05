@@ -4,6 +4,7 @@ import studyData from "../data/study.json";
 import kitchenData from "../data/kitchen.json";
 import bathroomData from "../data/bathroom.json";
 import balconyData from "../data/balcony.json";
+import monsoonData from "../data/monsoon.json";
 import categoriesData from "../data/categories.json";
 
 import { Product, Category } from "../types/product";
@@ -16,6 +17,7 @@ const allProducts: Product[] = [
   ...kitchenData,
   ...bathroomData,
   ...balconyData,
+  ...monsoonData,
 ];
 
 const allCategories: Category[] = categoriesData;
@@ -48,6 +50,7 @@ export async function getProductsByCategory(categorySlug: string): Promise<Produ
     "kitchen": "Kitchen",
     "bathroom": "Bathroom",
     "balcony": "Balcony",
+    "monsoon-essentials": "Monsoon Essentials",
   };
 
   const categoryName = categoryMap[categorySlug];

@@ -34,5 +34,11 @@
     "name": "Balcony",
     "description": "Transform your outdoor niche into a peaceful retreat. Shop folding bistro sets, weatherproof outdoor cushions, warm solar string lights, and space-efficient railing planters.",
     "coverImage": "/images/balcony/cover.png"
+  },
+  {
+    "slug": "monsoon-essentials",
+    "name": "Monsoon Essentials",
+    "description": "Living in a rental room, PG, hostel, or small apartment during monsoon comes with its own challenges—damp clothes, musty smells, muddy shoes, humidity, and limited space to dry things.",
+    "coverImage": "/images/monsoon/cover.png"
   }
 ]

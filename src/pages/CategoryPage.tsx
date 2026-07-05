@@ -72,6 +72,19 @@ export default function CategoryPage() {
     );
   }
 
+  // Group products by group name
+  const groupNames: string[] = [];
+  const groupedProducts: Record<string, Product[]> = {};
+
+  products.forEach((p) => {
+    const g = p.group || "";
+    if (!groupedProducts[g]) {
+      groupedProducts[g] = [];
+      groupNames.push(g);
+    }
+    groupedProducts[g].push(p);
+  });
+
   const siteUrl = "https://rentersdecorhub.com";
   const title = `${category.name} Decor Ideas & Affiliate Picks | rentersdecorhub`;
   const description =
@@ -115,15 +128,25 @@ export default function CategoryPage() {
         </div>
       </div>
 
+      {/* Category Description Intro */}
+      <div className="mx-auto max-w-7xl px-4 pt-12 sm:px-6 lg:px-8">
+        <p className="text-base md:text-lg text-neutral-600 max-w-3xl leading-relaxed">
+          {category.description}
+        </p>
+      </div>
+
       {/* Products Display */}
-      <div className="mx-auto max-w-7xl px-4 py-12 sm:px-6 lg:px-8">
+      <div className="mx-auto max-w-7xl px-4 pb-12 pt-6 sm:px-6 lg:px-8 flex flex-col gap-6">
         {products.length > 0 ? (
-          <CollectionSection
-            title={`Top Renter-Safe Picks for Your ${category.name}`}
-            subtitle={category.description}
-            products={products}
-            cols={4}
-          />
+          groupNames.map((groupName) => (
+            <CollectionSection
+              key={groupName || "all"}
+              title={groupName || `Top Picks for Your ${category.name}`}
+              subtitle=""
+              products={groupedProducts[groupName]}
+              cols={4}
+            />
+          ))
         ) : (
           <EmptyState
             title="Board Under Construction"

@@ -6,6 +6,7 @@ export interface Product {
   affiliateLink: string;
   badge?: string;
   category: string;
+  group?: string;
 }
 
 export interface Category {
